@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~9.0.5",
     "@angular/platform-browser-dynamic": "~9.0.5",
     "@angular/router": "~9.0.5",
-    "buttercms": "^1.2.2",
+    "buttercms": "^1.2.10",
     "core-js": "^3.6.4",
     "rxjs": "~6.5.4",
     "tslib": "^1.11.1",
